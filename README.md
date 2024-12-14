@@ -1,7 +1,7 @@
 # My-python-learning-journey
 # 🚀 Python Learning Roadmap
 
-Welcome to the **Python Learning Roadmap**! This guide will take you from the basics of Python to mastering Object-Oriented Programming (OOP). Follow the roadmap, and you'll become proficient in Python step-by-step. Let's dive in! 
+Welcome to the **Python Learning Roadmap**! This guide is conclusion on how i learnt python through various resources and i have created this step by step roadmap for others to have a gided path to their learning 
 
 ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png)
 
