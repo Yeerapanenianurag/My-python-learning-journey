@@ -94,10 +94,3 @@ Once you master the basics, consider delving into advanced topics:
 
 Happy Coding! 🎉
 
----
-
-## 🖼️ 3D Python Logo
-
-Here’s the 3D Python logo for some visual excitement:
-
-![3D Python Logo](https://upload.wikimedia.org/wikipedia/commons/e/e3/Python-Logo.svg)
